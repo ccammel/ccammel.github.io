@@ -9,10 +9,7 @@ pre {
   max-height:500px;
 }
 
-div {
-  width: auto;
-  height: auto;
-}
+.divdim {height: 500px; width:fit-content}
 
 nav ul {
   margin:auto;
