@@ -9,6 +9,11 @@ pre {
   max-height:500px;
 }
 
+div {
+  width: auto;
+  height: auto;
+}
+
 nav ul {
   margin:auto;
   padding: 1em;
